@@ -63,3 +63,4 @@ I am making this diary to make a register of all things that i am building becau
     },
     getUsersEmissions () {
       let emissionsHistoric
+- 06/02 -> Fiz ajustes em no todoList
