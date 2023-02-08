@@ -10,3 +10,4 @@ I am making this diary to make a register of all things that i am building becau
  - 03/02 -> Fiz um cálculo estatístico medindo a média do total dos usuários dos últimos 6 meses para ter um cálculo diários como referência das entradas diárias dos clientes.
 - 06/02 -> Fiz ajustes em no todoList
 - 07/02 -> Aprendi como fazer rotas no Vue, preciso estudar mais Route.push; Atualizei o sistema de remoção de tarefas e atualizei também alguns css menores.
+- 08/02 -> Refatorei o código para ficar mais limpe e organizado. Ajeito o código estatístico para ser usado em outro projeto quando necessário
