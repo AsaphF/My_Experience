@@ -14,3 +14,6 @@ I am making this diary to make a register of all things that i am building becau
 
 - March:
  28/03 -> Não atualizei por esquecimento. Mas nesse um mês e meio construi 3 páginas novas da plataforma da empresa. Duas para o suporte e uma para o cliente.
+
+- April -> 
+ 10/04 -> Hoje basicamente conclui os projetos que comecei desde fevereiro, estou esperando aprovação do sênior. Fiz 3 páginas para a plataforma de suporte, e 2 para cliente.
