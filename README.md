@@ -17,3 +17,4 @@ I am making this diary to make a register of all things that i am building becau
 
 - April -> 
  10/04 -> Hoje basicamente conclui os projetos que comecei desde fevereiro, estou esperando aprovação do sênior. Fiz 3 páginas para a plataforma de suporte, e 2 para cliente.
+11/04 -> Hoje adicionei setas em acoordions, estudei sobre designs de navbars para trazer novas possibilidades para o projeto.
