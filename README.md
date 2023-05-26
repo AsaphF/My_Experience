@@ -18,3 +18,7 @@ I am making this diary to make a register of all things that i am building becau
 - April -> 
  10/04 -> Hoje basicamente conclui os projetos que comecei desde fevereiro, estou esperando aprovação do sênior. Fiz 3 páginas para a plataforma de suporte, e 2 para cliente.
 11/04 -> Hoje adicionei setas em acoordions, estudei sobre designs de navbars para trazer novas possibilidades para o projeto.
+
+- May:
+26/05 - Estou desde o começo de Maio estudando Python e fazendo uma aplicação Pyside. Entreguei os projetos previamente citados. E entreguei mais um sistema de monitoramento completo que fiz na ultima semana de abril.
+  * A aplicação Pyside será de médio porte, fiz as partes do login e agora irei começar a parte principal da operação, tenho aprendido bastante.
