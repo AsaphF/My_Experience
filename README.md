@@ -22,3 +22,9 @@ I am making this diary to make a register of all things that i am building becau
 - May:
 26/05 - Estou desde o começo de Maio estudando Python e fazendo uma aplicação Pyside. Entreguei os projetos previamente citados. E entreguei mais um sistema de monitoramento completo que fiz na ultima semana de abril.
   * A aplicação Pyside será de médio porte, fiz as partes do login e agora irei começar a parte principal da operação, tenho aprendido bastante.
+
+- July:
+18/07 - Finalizei uma aplicação Pyside e estou trabalhando em outra. Ambas as aplicações são para diferentes versões de Windows. Lições que aprendi com isso :
+ - Antes de começar o projeto pyside deixar entendido em qual sistemas operacionais a aplicação vai rodar.
+ - Sempre inicie o processo de efetivação do executável(Pyinstaller no meu caso) pelo sistema operacional mais antigo. O pyinstaller não tem um suporte para ir de uma versão de windows mais recente para uma mais antiga, mas o contrário possue.
+ - O pyside6 não tem suporte para Windowns mais antigos como 7 e 8, sendo assim para fazer aplicações para ele é necessário usar o Pyside2. Usei diversas funcionalidades no pyside6 e pude também usá-las ao mudar para Pyside2.
