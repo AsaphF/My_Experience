@@ -29,3 +29,6 @@ I am making this diary to make a register of all things that i am building becau
  - Sempre inicie o processo de efetivação do executável(Pyinstaller no meu caso) pelo sistema operacional mais antigo. O pyinstaller não tem um suporte para ir de uma versão de windows mais recente para uma mais antiga, mas o contrário possue.
  - O pyside6 não tem suporte para Windowns mais antigos como 7 e 8, sendo assim para fazer aplicações para ele é necessário usar o Pyside2. Usei diversas funcionalidades no pyside6 e pude também usá-las ao mudar para Pyside2.
 19/07 - Tentei fazer o processo de criação de um instalador através do InstallForge porém por questões de licença e segurança, não é mais adequado. Descobri que há um bem mais recomendado que é o Inno Setup funciona perfeitamente criando o executável como também salvando a pasta de relacionadas as aplicação.
+20/07 - Adicionei imagens compatíveis com a marca no próprio instalador. Achei um meio gerenciar os updates, chamado Pyupdate.
+Tentarei
+
