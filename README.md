@@ -31,4 +31,5 @@ I am making this diary to make a register of all things that i am building becau
 19/07 - Tentei fazer o processo de criação de um instalador através do InstallForge porém por questões de licença e segurança, não é mais adequado. Descobri que há um bem mais recomendado que é o Inno Setup funciona perfeitamente criando o executável como também salvando a pasta de relacionadas as aplicação.
 20/07 - Adicionei imagens compatíveis com a marca no próprio instalador. Achei um meio gerenciar os updates, chamado Pyupdate.
 Tentarei
-
+24/07 - Trabalhei no verificador de versões da aplicação desktop, de forma que caso achei uma nova versão, baixe a nova versão e substitua o arquivo do executável.
+ Além disso, achei uma nova salvar informações simples para uso na aplicação.
