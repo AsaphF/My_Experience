@@ -34,3 +34,4 @@ I am making this diary to make a register of all things that i am building becau
  - Além disso, achei uma nova salvar informações simples para uso na aplicação, para isso aprendi mais o funcionamento da pasta 'AppData'
  Aqui está um resumo : https://chat.openai.com/share/92c49cfd-a80e-4477-a904-6f6ffda51087
  - Fui delegado voltar a fazer alterações no suporte.
+25/07 - Fiz alterações no suporte, adicionei a procura de clientes pelo telefone, e atualizei a tabela com novos planos.
