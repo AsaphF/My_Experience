@@ -35,3 +35,5 @@ I am making this diary to make a register of all things that i am building becau
  Aqui está um resumo : https://chat.openai.com/share/92c49cfd-a80e-4477-a904-6f6ffda51087
  - Fui delegado voltar a fazer alterações no suporte.
 25/07 - Fiz alterações no suporte, adicionei a procura de clientes pelo telefone, e atualizei a tabela com novos planos.
+27/07 - Trabalhei dia 26 e hoje em um algorítimo para filtrar subscrições de um cliente em um determinado periodo de tempo para atualizar o sistema do suporte com as informações sobre os novos planos, assinaturas e boleto
+Além disso tive ajuda do Sénior para fazer requisições de uma fintech com restricões por requisição.
