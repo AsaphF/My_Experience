@@ -37,3 +37,5 @@ I am making this diary to make a register of all things that i am building becau
 25/07 - Fiz alterações no suporte, adicionei a procura de clientes pelo telefone, e atualizei a tabela com novos planos.
 27/07 - Trabalhei dia 26 e hoje em um algorítimo para filtrar subscrições de um cliente em um determinado periodo de tempo para atualizar o sistema do suporte com as informações sobre os novos planos, assinaturas e boleto
 Além disso tive ajuda do Sénior para fazer requisições de uma fintech com restricões por requisição.
+31/07 - 03/08 - Não codei pois estava ajudando na montagem de servidores
+04/08 - Refiz toda a UI de leads do sistema comercial adicionando botões novos e novos dados. Esse sistema terá integração com WhatsApp para o vendedor contatar diretamente o cliente através dele entrar em contato com o cliente, haverá também integração com a API do Gmail do google.
