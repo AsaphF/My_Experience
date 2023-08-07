@@ -28,15 +28,15 @@ I am making this diary to make a register of all things that i am building becau
  - Antes de começar o projeto pyside deixar entendido em qual sistemas operacionais a aplicação vai rodar.
  - Sempre inicie o processo de efetivação do executável(Pyinstaller no meu caso) pelo sistema operacional mais antigo. O pyinstaller não tem um suporte para ir de uma versão de windows mais recente para uma mais antiga, mas o contrário possue.
  - O pyside6 não tem suporte para Windowns mais antigos como 7 e 8, sendo assim para fazer aplicações para ele é necessário usar o Pyside2. Usei diversas funcionalidades no pyside6 e pude também usá-las ao mudar para Pyside2.
-19/07 - Tentei fazer o processo de criação de um instalador através do InstallForge porém por questões de licença e segurança, não é mais adequado. Descobri que há um bem mais recomendado que é o Inno Setup funciona perfeitamente criando o executável como também salvando a pasta de relacionadas as aplicação.
-20/07 - Adicionei imagens compatíveis com a marca no próprio instalador. Achei um meio gerenciar os updates, chamado Pyupdate.
-24/07 - Trabalhei no verificador de versões da aplicação desktop, de forma que caso achei uma nova versão, baixe a nova versão e substitua o arquivo do executável.
- - Além disso, achei uma nova salvar informações simples para uso na aplicação, para isso aprendi mais o funcionamento da pasta 'AppData'
+- 19/07 - Tentei fazer o processo de criação de um instalador através do InstallForge porém por questões de licença e segurança, não é mais adequado. Descobri que há um bem mais recomendado que é o Inno Setup funciona perfeitamente criando o executável como também salvando a pasta de relacionadas as aplicação.
+- 20/07 - Adicionei imagens compatíveis com a marca no próprio instalador. Achei um meio gerenciar os updates, chamado Pyupdate.
+- 24/07 - Trabalhei no verificador de versões da aplicação desktop, de forma que caso achei uma nova versão, baixe a nova versão e substitua o arquivo do executável.
+ * Além disso, achei uma nova salvar informações simples para uso na aplicação, para isso aprendi mais o funcionamento da pasta 'AppData'
  Aqui está um resumo : https://chat.openai.com/share/92c49cfd-a80e-4477-a904-6f6ffda51087
- - Fui delegado voltar a fazer alterações no suporte.
-25/07 - Fiz alterações no suporte, adicionei a procura de clientes pelo telefone, e atualizei a tabela com novos planos.
-27/07 - Trabalhei dia 26 e hoje em um algorítimo para filtrar subscrições de um cliente em um determinado periodo de tempo para atualizar o sistema do suporte com as informações sobre os novos planos, assinaturas e boleto
+ * Fui delegado voltar a fazer alterações no suporte.
+- 25/07 - Fiz alterações no suporte, adicionei a procura de clientes pelo telefone, e atualizei a tabela com novos planos.
+- 27/07 - Trabalhei dia 26 e hoje em um algorítimo para filtrar subscrições de um cliente em um determinado periodo de tempo para atualizar o sistema do suporte com as informações sobre os novos planos, assinaturas e boleto
 Além disso tive ajuda do Sénior para fazer requisições de uma fintech com restricões por requisição.
-31/07 - 03/08 - Não codei pois estava ajudando na montagem de servidores
-04/08 - Refiz toda a UI de leads do sistema comercial adicionando botões novos e novos dados. Esse sistema terá integração com WhatsApp para o vendedor contatar diretamente o cliente através dele entrar em contato com o cliente, haverá também integração com a API do Gmail do google.
-07/08 - Finalizei todo o front UI do sistema de leads e adicionei a inclusão do vínculo do WhatsApp, ainda irei finalizar a API para o Email.
+- 31/07 - 03/08 - Não codei pois estava ajudando na montagem de servidores
+- 04/08 - Refiz toda a UI de leads do sistema comercial adicionando botões novos e novos dados. Esse sistema terá integração com WhatsApp para o vendedor contatar diretamente o cliente através dele entrar em contato com o cliente, haverá também integração com a API do Gmail do google.
+- 07/08 - Finalizei todo o front UI do sistema de leads e adicionei a inclusão do vínculo do WhatsApp, ainda irei finalizar a API para o Email.
