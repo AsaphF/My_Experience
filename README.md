@@ -39,3 +39,4 @@ I am making this diary to make a register of all things that i am building becau
 Além disso tive ajuda do Sénior para fazer requisições de uma fintech com restricões por requisição.
 31/07 - 03/08 - Não codei pois estava ajudando na montagem de servidores
 04/08 - Refiz toda a UI de leads do sistema comercial adicionando botões novos e novos dados. Esse sistema terá integração com WhatsApp para o vendedor contatar diretamente o cliente através dele entrar em contato com o cliente, haverá também integração com a API do Gmail do google.
+07/08 - Finalizei todo o front UI do sistema de leads e adicionei a inclusão do vínculo do WhatsApp, ainda irei finalizar a API para o Email.
