@@ -40,3 +40,4 @@ Além disso tive ajuda do Sénior para fazer requisições de uma fintech com re
 - 31/07 - 03/08 - Não codei pois estava ajudando na montagem de servidores
 - 04/08 - Refiz toda a UI de leads do sistema comercial adicionando botões novos e novos dados. Esse sistema terá integração com WhatsApp para o vendedor contatar diretamente o cliente através dele entrar em contato com o cliente, haverá também integração com a API do Gmail do google.
 - 07/08 - Finalizei todo o front UI do sistema de leads e adicionei a inclusão do vínculo do WhatsApp, ainda irei finalizar a API para o Email.
+- 08/08 - O vínculo do WhatsApp alterou, precisei mudar pq um modal era necessário então adicionei isso e fiz o vínculo, arrumei bug no botão de monitoramento. Amanhã preciso atualizar a tabela principal pois novas dados são requeridos.
