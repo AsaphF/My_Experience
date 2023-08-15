@@ -45,3 +45,4 @@ Além disso tive ajuda do Sénior para fazer requisições de uma fintech com re
 - 10/08 - Finalizei a tela de leads recentes, fiz um modal para configuração da mensagem padrão, a UI foi aprovada e elogiada. Adcionei o vínculo com a API do GMAIL e deu tudo certo. Fui requisitado para aprender Selenium, irei começar. Aqui um resumo provido pelo chatGPT : https://chat.openai.com/share/47d9c19c-8b43-4622-8270-f6a740d7601a
 - 11/09 - Fiz um monte de coisa. Segunda irei atualizar tudo.
 - 14/08 - Hoje iria finalizar a Tela de lead porém foi decidido que o melhor seria fazer logo um sistema CRM completo do qual fiquei responsável, estou muito feliz pela decisão pois o que farei para o sistema da equipe comercial depois será usado na produção de um produto desse jeito.
+- 15/08 - Elaboramos um novo design para a configuração do email automático. O projeto agora terá seleção de modelos de texto como também templates de e-mail. Comecei a produzir.
