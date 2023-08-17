@@ -46,3 +46,4 @@ Além disso tive ajuda do Sénior para fazer requisições de uma fintech com re
 - 11/09 - Fiz um monte de coisa. Segunda irei atualizar tudo.
 - 14/08 - Hoje iria finalizar a Tela de lead porém foi decidido que o melhor seria fazer logo um sistema CRM completo do qual fiquei responsável, estou muito feliz pela decisão pois o que farei para o sistema da equipe comercial depois será usado na produção de um produto desse jeito.
 - 15/08 - Elaboramos um novo design para a configuração do email automático. O projeto agora terá seleção de modelos de texto como também templates de e-mail. Comecei a produzir.
+- 17/08 - Esqueci de atualizar ontem, mas criei terminando hj um sistema de modelos de mensagens para o WhatsApp, amanhâ testar o envio e focar no modal de e-mail.
