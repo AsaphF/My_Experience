@@ -48,3 +48,4 @@ Além disso tive ajuda do Sénior para fazer requisições de uma fintech com re
 - 15/08 - Elaboramos um novo design para a configuração do email automático. O projeto agora terá seleção de modelos de texto como também templates de e-mail. Comecei a produzir.
 - 17/08 - Esqueci de atualizar ontem, mas criei terminando hj um sistema de modelos de mensagens para o WhatsApp, amanhâ testar o envio e focar no modal de e-mail.
 - 18/08 - Adicionei novas features de UX para facilitar o uso do editor do modelo de texto.
+- 21/08 - Finalizei o modal referente ao Envio do WhatsApp, está totalmente funcional e fiz mais de 50% do modal de edição de envio de e-mail
