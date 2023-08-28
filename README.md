@@ -50,3 +50,4 @@ Além disso tive ajuda do Sénior para fazer requisições de uma fintech com re
 - 18/08 - Adicionei novas features de UX para facilitar o uso do editor do modelo de texto.
 - 21/08 - Finalizei o modal referente ao Envio do WhatsApp, está totalmente funcional e fiz mais de 50% do modal de edição de envio de e-mail
 - 22/08 - Finalizei o modal referente ao Envio do Email, amanhã testar bastante e resolver bugs;
+- 28/08 - Finalizei a tela de leads por completo, hoje foi feito um review e foi pedido para adicionar algumas features como alterações na UI. Finalizarei amanhâ de manhâ para mandar para produção.
