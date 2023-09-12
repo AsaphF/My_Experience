@@ -52,3 +52,4 @@ Além disso tive ajuda do Sénior para fazer requisições de uma fintech com re
 - 22/08 - Finalizei o modal referente ao Envio do Email, amanhã testar bastante e resolver bugs;
 - 28/08 - Finalizei a tela de leads por completo, hoje foi feito um review e foi pedido para adicionar algumas features como alterações na UI. Finalizarei amanhâ de manhâ para mandar para produção.
 - 29/08 - Todas as alterações necessárias na tela de leads foi efetivada, começando agora clientes.
+- 12/09 - Desde do dia 01/09 estou aprendendo e usando Selenium. Surgiu uma emergência e precisei ser direcionado para projeto focado em WebScrapping, estarei agora monstrando o meu aprendizado nisso.
